@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="25 300 945 500" width="100%" height="100%">
+  <!-- Exact 1:1 Vector Replica of 89340.svg with White Contour for Dark Mode -->
+  
+  <!-- Capa 1: Contorno blanco uniforme de alta visibilidad para modo oscuro -->
+  <g stroke="#ffffff" stroke-width="28" stroke-linejoin="round" stroke-linecap="round" fill="#ffffff">
+    <!-- Letra G (Contorno blanco) -->
+    <path
+      fill-rule="evenodd"
+      d="
+        M 54,332
+        L 348,332
+        A 218 218 0 0 1 554,478
+        L 442,478
+        A 118 118 0 0 0 348,432
+        A 118 118 0 0 0 230,550
+        A 118 118 0 0 0 348,668
+        A 118 118 0 0 0 461,582
+        L 364,582
+        L 364,505
+        L 570,505
+        L 570,758
+        L 496,758
+        C 454,765 404,768 348,768
+        A 218 218 0 0 1 130,550
+        C 130,518 136,490 146,464
+        L 54,424
+        L 142,390
+        Z
+      "
+    />
+
+    <!-- Letra o (Contorno blanco) -->
+    <path
+      fill-rule="evenodd"
+      d="
+        M 595,425
+        L 768,425
+        A 173 173 0 0 1 941,598
+        A 173 173 0 0 1 768,771
+        A 173 173 0 0 1 595,598
+        L 595,425
+        Z
+
+        M 768,526
+        A 72 72 0 1 0 768,670
+        A 72 72 0 1 0 768,526
+        Z
+      "
+    />
+  </g>
+
+  <!-- Capa 2: Emblema original fiel 100% idéntico en negro (#000000) -->
+  <g fill="#000000">
+    <!-- Letra G original -->
+    <path
+      fill-rule="evenodd"
+      d="
+        M 54,332
+        L 348,332
+        A 218 218 0 0 1 554,478
+        L 442,478
+        A 118 118 0 0 0 348,432
+        A 118 118 0 0 0 230,550
+        A 118 118 0 0 0 348,668
+        A 118 118 0 0 0 461,582
+        L 364,582
+        L 364,505
+        L 570,505
+        L 570,758
+        L 496,758
+        C 454,765 404,768 348,768
+        A 218 218 0 0 1 130,550
+        C 130,518 136,490 146,464
+        L 54,424
+        L 142,390
+        Z
+      "
+    />
+
+    <!-- Letra o original -->
+    <path
+      fill-rule="evenodd"
+      d="
+        M 595,425
+        L 768,425
+        A 173 173 0 0 1 941,598
+        A 173 173 0 0 1 768,771
+        A 173 173 0 0 1 595,598
+        L 595,425
+        Z
+
+        M 768,526
+        A 72 72 0 1 0 768,670
+        A 72 72 0 1 0 768,526
+        Z
+      "
+    />
+  </g>
+</svg>

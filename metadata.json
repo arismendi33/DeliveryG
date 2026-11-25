@@ -1,0 +1,10 @@
+{
+  "name": "Godelivery beta",
+  "description": "Go Delivery Driver Guayana: aplicación dedicada exclusivamente para repartidores con navegación táctil fluida por deslizamiento (swipe), modo claro predeterminado, total privacidad del paquete, mapa de navegación simplificado, validación por PIN y configuración de localidad y alertas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

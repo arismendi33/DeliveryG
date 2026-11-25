@@ -1,0 +1,262 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGradIcon90136Exact" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#f4f4f5" />
+    </linearGradient>
+    <filter id="shadowIcon90136Exact" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.12" />
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" rx="120" fill="url(#bgGradIcon90136Exact)" stroke="#e4e4e7" stroke-width="4" />
+  <g filter="url(#shadowIcon90136Exact)" transform="translate(18, 55) scale(0.47)">
+    
+  <defs>
+    <clipPath id="bagExactClip90224InLogo">
+      <rect x="322" y="328" width="338" height="337" rx="6" />
+    </clipPath>
+  </defs>
+
+  <!-- 100% Transparent Background -->
+  
+
+  <!-- ======================================================== -->
+  <!-- 1. UNIFIED WHITE STICKER OUTLINE (Continuous Die-Cut)   -->
+  <!-- ======================================================== -->
+  <g stroke="#ffffff" stroke-width="26" stroke-linejoin="round" stroke-linecap="round" fill="#ffffff">
+    <!-- Big G & O contour -->
+    <path fill-rule="evenodd" d="M 54,332
+  L 348,332
+  A 218 218 0 0 1 554,478
+  L 442,478
+  A 118 118 0 0 0 348,432
+  A 118 118 0 0 0 230,550
+  A 118 118 0 0 0 348,668
+  A 118 118 0 0 0 461,582
+  L 364,582
+  L 364,505
+  L 570,505
+  L 570,758
+  L 496,758
+  C 454,765 404,768 348,768
+  A 218 218 0 0 1 130,550
+  C 130,518 136,490 146,464
+  L 54,424
+  L 142,390
+  Z" />
+    <path fill-rule="evenodd" d="M 595,425
+  L 768,425
+  A 173 173 0 0 1 941,598
+  A 173 173 0 0 1 768,771
+  A 173 173 0 0 1 595,598
+  L 595,425
+  Z
+  M 768,526
+  A 72 72 0 1 0 768,670
+  A 72 72 0 1 0 768,526
+  Z" />
+
+    <!-- Exact 90224 Bag Sticker Contour -->
+    <g transform="translate(738, 370) scale(0.68) translate(-322, -328)">
+      <path d="M 394,328 C 394,204 588,204 588,328" fill="none" stroke-width="48" />
+      <rect x="322" y="328" width="338" height="337" rx="8" />
+    </g>
+
+    <!-- Subtitle "GODelivery" contour -->
+    <g transform="translate(730, 630) scale(1.05)">
+      <path d="M 0,16
+  L 26,16
+  C 34,9 45,9 54,16
+  C 63,22 67,31 67,42
+  L 40,42
+  L 40,49
+  L 56,49
+  C 54,57 47,63 38,63
+  C 27,63 19,53 19,41
+  C 19,37 20,33 22,29
+  L 0,29
+  L 13,24
+  L 0,16
+  Z" />
+      <path fill-rule="evenodd" d="M 66,26
+  C 75,26 86,26 94,32
+  C 104,38 104,52 95,58
+  C 86,65 72,65 66,58
+  C 62,52 62,35 66,26
+  Z
+  M 81,36
+  C 87,36 91,40 91,46
+  C 91,52 87,56 81,56
+  C 75,56 71,52 71,46
+  C 71,40 75,36 81,36
+  Z" />
+      <text
+        x="105"
+        y="58"
+        font-family="system-ui, -apple-system, sans-serif"
+        font-size="37"
+        font-weight="900"
+        letter-spacing="-0.8"
+      >Delivery</text>
+    </g>
+  </g>
+
+  <!-- Inner Handle Cutout for Transparent Hole -->
+  <path
+    d="M 416,328 C 416,234 566,234 566,328"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="14"
+    stroke-linecap="round"
+    transform="translate(738, 370) scale(0.68) translate(-322, -328)"
+  />
+
+  <!-- ======================================================== -->
+  <!-- 2. FOREGROUND ARTWORK                                    -->
+  <!-- ======================================================== -->
+
+  <!-- A. Speed Letters "G" and "O" from 89340.svg (Pure Black) -->
+  <g fill="#000000">
+    <path fill-rule="evenodd" d="M 54,332
+  L 348,332
+  A 218 218 0 0 1 554,478
+  L 442,478
+  A 118 118 0 0 0 348,432
+  A 118 118 0 0 0 230,550
+  A 118 118 0 0 0 348,668
+  A 118 118 0 0 0 461,582
+  L 364,582
+  L 364,505
+  L 570,505
+  L 570,758
+  L 496,758
+  C 454,765 404,768 348,768
+  A 218 218 0 0 1 130,550
+  C 130,518 136,490 146,464
+  L 54,424
+  L 142,390
+  Z" />
+    <path fill-rule="evenodd" d="M 595,425
+  L 768,425
+  A 173 173 0 0 1 941,598
+  A 173 173 0 0 1 768,771
+  A 173 173 0 0 1 595,598
+  L 595,425
+  Z
+  M 768,526
+  A 72 72 0 1 0 768,670
+  A 72 72 0 1 0 768,526
+  Z" />
+  </g>
+
+  <!-- B. The Exact 90224 Delivery Bag Mascot -->
+  <g id="deliveryBagMascotExact" transform="translate(738, 370) scale(0.68) translate(-322, -328)">
+    <!-- 1. Handle (Orange Arch) -->
+    <path
+      d="M 394,328 C 394,206 588,206 588,328"
+      fill="none"
+      stroke="#ff6e00"
+      stroke-width="18"
+      stroke-linecap="round"
+    />
+
+    <!-- 2. Bag Body with Dynamic Cuts -->
+    <g clip-path="url(#bagExactClip90224InLogo)">
+      <rect x="322" y="328" width="338" height="337" fill="#ff6e00" />
+
+      <!-- Top-Left Corner Cutout -->
+      <path
+        d="M 322,328 L 416,328 C 378,350 346,386 322,442 Z"
+        fill="#ffffff"
+      />
+      <!-- Top-Left Dynamic White Speed Swoosh -->
+      <path
+        d="M 416,328 C 378,350 346,386 322,442 L 322,504 C 356,440 408,382 478,328 Z"
+        fill="#ffffff"
+      />
+
+      <!-- Bottom-Right 3D Gusset Fold (Orange + Amber Shadow) -->
+      <polygon points="566,665 660,571 660,665" fill="#ff6e00" />
+      <polygon points="616,665 660,571 660,665" fill="#ea8500" />
+
+      <!-- Bottom-Right Dynamic White Speed Stripe -->
+      <polygon points="506,665 540,665 660,545 660,511" fill="#ffffff" />
+    </g>
+
+    <!-- 3. Expressive Kawaii Face matching 90224.svg -->
+    <!-- Left Eye -->
+    <ellipse
+      cx="406"
+      cy="476"
+      rx="21"
+      ry="29"
+      fill="#000000"
+      transform="rotate(-8 406 476)"
+    />
+
+    <!-- Right Eye: Exact 90224 Stylized Wink with Eyelash Wing -->
+    <path
+      d="M 488,498
+         C 502,460 534,440 568,442
+         L 602,398
+         C 584,432 566,450 554,460
+         C 568,452 590,452 608,466
+         C 608,466 596,478 578,474
+         C 544,466 516,482 488,498
+         Z"
+      fill="#000000"
+    />
+
+    <!-- Joyful Asymmetric Smile -->
+    <path
+      d="M 398,552 C 438,602 532,602 602,492"
+      fill="none"
+      stroke="#000000"
+      stroke-width="22"
+      stroke-linecap="round"
+    />
+  </g>
+
+  <!-- C. Subtitle "GODelivery" Signature -->
+  <g transform="translate(730, 630) scale(1.05)">
+    <path d="M 0,16
+  L 26,16
+  C 34,9 45,9 54,16
+  C 63,22 67,31 67,42
+  L 40,42
+  L 40,49
+  L 56,49
+  C 54,57 47,63 38,63
+  C 27,63 19,53 19,41
+  C 19,37 20,33 22,29
+  L 0,29
+  L 13,24
+  L 0,16
+  Z" fill="#000000" />
+    <path fill-rule="evenodd" d="M 66,26
+  C 75,26 86,26 94,32
+  C 104,38 104,52 95,58
+  C 86,65 72,65 66,58
+  C 62,52 62,35 66,26
+  Z
+  M 81,36
+  C 87,36 91,40 91,46
+  C 91,52 87,56 81,56
+  C 75,56 71,52 71,46
+  C 71,40 75,36 81,36
+  Z" fill="#000000" />
+    <text
+      x="105"
+      y="58"
+      font-family="system-ui, -apple-system, sans-serif"
+      font-size="37"
+      font-weight="900"
+      letter-spacing="-0.8"
+      fill="#000000"
+    >Delivery</text>
+  </g>
+
+  </g>
+  <text x="256" y="458" text-anchor="middle" fill="#ff6e00" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="18" letter-spacing="4">GUAYANA · PTO ORDAZ - SAN FÉLIX</text>
+</svg>
